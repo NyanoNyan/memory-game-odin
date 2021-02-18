@@ -1,0 +1,15 @@
+.score-list {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    opacity: 0.8;
+    color: black;
+}
+
+
+@media only screen and (max-width: 525px) {
+    .score-list  {
+        font-size: 10px;
+    }
+}
