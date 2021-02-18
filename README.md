@@ -6,4 +6,7 @@
 
 - Test button is used to test use of useEffect hook
 
+### To do 
+- Make it more dynamic for mobile users.
+
 Live Link: https://nyanonyan.github.io/memory-game-odin/
