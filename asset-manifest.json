@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory-game-odin/static/css/main.29217298.chunk.css",
+    "main.css": "/memory-game-odin/static/css/main.f08a4c36.chunk.css",
     "main.js": "/memory-game-odin/static/js/main.3fe8fb04.chunk.js",
     "main.js.map": "/memory-game-odin/static/js/main.3fe8fb04.chunk.js.map",
     "runtime-main.js": "/memory-game-odin/static/js/runtime-main.7202d669.js",
@@ -8,14 +8,14 @@
     "static/js/2.58ae8dee.chunk.js": "/memory-game-odin/static/js/2.58ae8dee.chunk.js",
     "static/js/2.58ae8dee.chunk.js.map": "/memory-game-odin/static/js/2.58ae8dee.chunk.js.map",
     "index.html": "/memory-game-odin/index.html",
-    "static/css/main.29217298.chunk.css.map": "/memory-game-odin/static/css/main.29217298.chunk.css.map",
+    "static/css/main.f08a4c36.chunk.css.map": "/memory-game-odin/static/css/main.f08a4c36.chunk.css.map",
     "static/js/2.58ae8dee.chunk.js.LICENSE.txt": "/memory-game-odin/static/js/2.58ae8dee.chunk.js.LICENSE.txt",
     "static/media/App.css": "/memory-game-odin/static/media/cartoon.7bdb2fbe.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7202d669.js",
     "static/js/2.58ae8dee.chunk.js",
-    "static/css/main.29217298.chunk.css",
+    "static/css/main.f08a4c36.chunk.css",
     "static/js/main.3fe8fb04.chunk.js"
   ]
 }
