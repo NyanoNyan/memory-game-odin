@@ -9,8 +9,4 @@
 ### To do 
 - Make it more dynamic for mobile users.
 
-<<<<<<< HEAD
-Live link: https://nyanonyan.github.io/memory-game-odin/
-=======
 Live Link: https://nyanonyan.github.io/memory-game-odin/
->>>>>>> dd240d3158a5f5ce704877a34b264c15ea6a4365
